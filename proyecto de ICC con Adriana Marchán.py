@@ -94,3 +94,5 @@ if x <= 3 and z<=3:
         print("eliminado")
 else:
     print("datos incorrectos")
+      
+ print("final")
